@@ -20,6 +20,8 @@ DEFAULT_PRIORITY=medium
 LOG_LEVEL=info
 ```
 
+Pegue a sua chave de API [neste link](https://ai.google.dev/gemini-api/docs?hl=pt-br)
+
 ## Comandos Disponíveis
 
 ### Criar Novas Tasks
